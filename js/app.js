@@ -38,6 +38,7 @@ const app = Vue.createApp({
             if (this.editingCard) {
                 this.editingCard.question = this.question
                 this.editingCard.answer = this.answer
+                this.editingCard = undefined
             }
 
             else {
