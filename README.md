@@ -1,4 +1,4 @@
-# Flash Cards
+# Flash Cards with Vue3
 
 These flash cards are used to learn. Implement this app according to this Demo.
 
